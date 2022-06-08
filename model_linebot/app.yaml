@@ -1,0 +1,2 @@
+runtime: python39
+entrypoint: uwsgi --http-socket :$PORT -w app:app

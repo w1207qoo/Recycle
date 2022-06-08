@@ -1,0 +1,4 @@
+flask
+tensorflow
+line-bot-sdk
+uwsgi
